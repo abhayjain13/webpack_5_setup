@@ -1,1 +1,1 @@
-# webpack_5_setup
+# Basic Webpack 5 Setup
